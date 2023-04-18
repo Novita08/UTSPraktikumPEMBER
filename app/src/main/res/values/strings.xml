@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS Pember</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="content_description_favorite">Favorite</string>
+    <string name="kartun_name">Nama</string>
+    <string name="kartun_nim">Nim</string>
+    <string name="kartun_age">Umur</string>
+</resources>
